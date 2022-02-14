@@ -9,9 +9,9 @@ import streamlit as st
 
 
 
-f = open('inventoryoutput.json')
+# f = open('inventoryoutput.json')
 
-data = json.load(f)
+# data = json.load(f)
 
 
 def findhosts():
